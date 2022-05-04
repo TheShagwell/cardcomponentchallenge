@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://theshagwell.github.io/cardcomponentchallenge.github.io/)
+- Live Site URL: [Github Pages](https://theshagwell.github.io/cardcomponentchallenge.github.io/)
 
 ## My process
 
@@ -50,6 +50,8 @@ Use this section to recap over some of your major learnings while working throug
 I learnt various techniques to build a project with flexbox using the display: flex and its other properties and also centering the div. Styling the mobile responsiveness at first was a bit ouuccch! but i came through
 
 To see how you can add code snippets, see below:
+
+## Snippets of the UI used
 
 ```html
     <div class="styled__component__card__image">
